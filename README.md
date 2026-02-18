@@ -54,6 +54,9 @@ It supports real-time monitoring and remote access, making home environments sma
 - AI-based Smart Automation  
 - Cloud Dashboard for Analytics  
 
+
+### Note:
+This project was developed as a group collaboration, with responsibilities shared among team members.
 ---
 
 ## 👤 Author
